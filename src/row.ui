@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <requires lib="gtk" version="4.0"/>
+  <object class="GtkBinLayout" id="layout"/>
+  <template class="Row" parent="GtkWidget">
+    <property name="layout-manager">layout</property>
+    <child>
+      <object class="GtkLabel" id="label">
+          <property name="label">plop</property>
+      </object>
+    </child>
+  </template>
+</interface>
+
+
+

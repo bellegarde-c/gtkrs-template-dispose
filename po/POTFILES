@@ -1,0 +1,4 @@
+data/org.gnome.gtkrs_test.desktop.in
+data/org.gnome.gtkrs_test.appdata.xml.in
+data/org.gnome.gtkrs_test.gschema.xml
+src/window.ui

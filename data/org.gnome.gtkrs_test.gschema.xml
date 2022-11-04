@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gtkrs-test">
+	<schema id="org.gnome.gtkrs_test" path="/org/gnome/gtkrs_test/">
+	</schema>
+</schemalist>
